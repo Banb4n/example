@@ -1,9 +1,3 @@
----
-description: >-
-  Methods because, in Pure Functional Programming: Array Foreach, Map, Filter,
-  Reduce, Concat Methods in Javascript
----
-
 # une page
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
