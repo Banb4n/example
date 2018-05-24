@@ -12,7 +12,7 @@ $ give me super-powers
  Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
-{% page-ref page="untitled-1/" %}
+{% page-ref page="welcome-to-the-home-page-of-my-docs.md" %}
 
 Once you're strong enough, save the world:
 
