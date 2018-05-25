@@ -9,10 +9,10 @@ $ give me super-powers
 ```
 
 {% hint style="warning" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+1. kdjdkjdd
 
-{% page-ref page="welcome-to-the-home-page-of-my-docs.md" %}
+* [ ] dldkld
+{% endhint %}
 
 Once you're strong enough, save the world:
 
