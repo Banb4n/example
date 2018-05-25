@@ -14,6 +14,8 @@ $ give me super-powers
 * [ ] dldkld
 {% endhint %}
 
+{% page-ref page="untitled-1/test-drafts.md" %}
+
 Once you're strong enough, save the world:
 
 ```
