@@ -25,11 +25,11 @@ dfdf
 
 
 
+![](.gitbook/assets/montagne-france%20%281%29.jpg)
 
+![](.gitbook/assets/aw_yeah%20%281%29.gif)
 
-
-
-{% page-ref page="untitled-1/" %}
+{% page-ref page="welcome-to-the-home-page-of-my-docs.md" %}
 
 Once you're strong enough, save the world:
 
