@@ -39,5 +39,9 @@ echo 'You got to trust me on this, I saved the world'
 
 {% embed data="{\"url\":\"https://codepen.io/internette/pen/xjNBoe\",\"type\":\"rich\",\"title\":\"CSS Laptop\",\"description\":\"Illustration 100% HTML and CSS, based on the following dribbble: https://dribbble.com/shots/4628639-Growing-A-Design-Audience  The only JavaScript is t...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://codepen.io/favicons/favicon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://s3-us-west-2.amazonaws.com/i.cdpn.io/172299.xjNBoe.small.730cdef4-9ceb-4c43-b280-8061d2e2d3a9.png\",\"width\":384,\"height\":225,\"aspectRatio\":0.5859375},\"embed\":{\"type\":\"app\",\"url\":\"https://codepen.io/internette/embed/preview/xjNBoe?height=300&slug-hash=xjNBoe&default-tabs=css,result&host=https://codepen.io&embed-version=2\",\"html\":\"<iframe src=\\"https://codepen.io/internette/embed/preview/xjNBoe?height=300&amp;slug-hash=xjNBoe&amp;default-tabs=css,result&amp;host=https://codepen.io&amp;embed-version=2\\" style=\\"border: 0; width: 100%; height: 300px;\\" allowfullscreen></iframe>\",\"height\":300,\"aspectRatio\":null}}" %}
 
-v
+
+
+![](.gitbook/assets/image.png)
+
+
 
