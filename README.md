@@ -45,9 +45,9 @@ paragrah
 * 
 {% endhint %}
 
-![cdkjkdjckdjckdjlfkf](.gitbook/assets/montagne-france%20%281%29.jpg)
+![](.gitbook/assets/montagne-france.jpg)
 
-![](.gitbook/assets/aw_yeah%20%281%29.gif)
+![](.gitbook/assets/telechargement%20%281%29.png)
 
 {% page-ref page="welcome-to-the-home-page-of-my-docs.md" %}
 

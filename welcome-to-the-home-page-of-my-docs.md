@@ -31,9 +31,9 @@ echo 'You got to trust me on this, I saved the world'
 
 
 
-![ggfgfg](.gitbook/assets/montagne-france.jpg)
+![ggfgfg](.gitbook/assets/montagne-france%20%282%29.jpg)
 
-![](.gitbook/assets/aw_yeah.gif)
+![](.gitbook/assets/aw_yeah%20%281%29.gif)
 
 {% embed data="{\"url\":\"https://codepen.io/\",\"type\":\"link\",\"title\":\"CodePen\",\"description\":\"A front end web development playground.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://codepen.io/favicons/favicon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://static.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
 
