@@ -16,36 +16,21 @@ $ give me super-powers
 
 {% hint style="info" %}
 ## heading 1jhjhj
-
-knkn
-
-kkjjk
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 ### heading 2
 
 khuhhuhh
 {% endhint %}
 
 {% hint style="info" %}
-#### heading 3
-{% endhint %}
-
-{% hint style="info" %}
 paragrah
 {% endhint %}
 
-{% hint style="info" %}
-* dfdfdfdfdfd
-* fdfdfdfd
-* dfdfdfd
-* fdfdfdfd
-* fdfdfdfd
-* 
+{% hint style="success" %}
+#### heading 3
 {% endhint %}
-
-![](.gitbook/assets/montagne-france.jpg)
 
 ![](.gitbook/assets/telechargement%20%281%29.png)
 
@@ -57,6 +42,8 @@ Once you're strong enough, save the world:
 // Ain't no code for that yet, sorry
 echo 'You got to trust me on this, I saved the world'
 ```
+
+![slkdlskldklklsdlkskds](.gitbook/assets/montagne-france.jpg)
 
 skdlslkd;l ;dkf;dkf
 
