@@ -27,26 +27,13 @@ echo 'You got to trust me on this, I saved the world'
 
 {% embed data="{\"url\":\"https://redux.js.org/\",\"type\":\"link\",\"title\":\"Read Me - Redux\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/spaces%2F-L5K1I1WsuQMZ8ecEuWg%2Favatar.png?generation=1518623866348435&alt=media\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.gitbook.com/share/space/thumbnail/-L5K1I1WsuQMZ8ecEuWg.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
 
-  
-
-
-
-
-
-
 ![s;ds;d;sld;lsd](.gitbook/assets/montagne-france%20%284%29.jpg)
-
-
 
 ![kjjkdhsgjkshfgjksdfkghjhdfsjg](.gitbook/assets/aw_yeah%20%281%29.gif)
 
-{% embed data="{\"url\":\"https://codepen.io/\",\"type\":\"link\",\"title\":\"CodePen\",\"description\":\"A front end web development playground.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://codepen.io/favicons/favicon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://static.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png\",\"width\":200,\"height\":200,\"aspectRatio\":1},\"caption\":\"\"}" %}
+{% embed data="{\"url\":\"https://codepen.io/\",\"type\":\"link\",\"title\":\"CodePen\",\"description\":\"A front end web development playground.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://codepen.io/favicons/favicon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://static.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png\",\"width\":200,\"height\":200,\"aspectRatio\":1},\"caption\":\"deef\"}" %}
 
-
-
-
-
-![&quot;But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happines, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful kldjgkl jsfdljg jsdfjg jskldfg j](.gitbook/assets/pwa.png)
+![](.gitbook/assets/pwa.png)
 
 ![gfgdgfg](https://images.unsplash.com/photo-1494249465471-5655b7878482?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=191559dc1cae3f8967d568dfd8a77093&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb)
 
