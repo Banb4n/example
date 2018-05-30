@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [That it's a very very long title beacause i test the ellipsis](welcome-to-the-home-page-of-my-docs.md)
+* [That it's a very very long title because i test the ellipsis](welcome-to-the-home-page-of-my-docs.md)
 * ....
 * Content
   * [google](https://google.com)

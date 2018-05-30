@@ -1,4 +1,4 @@
-# That it's a very very long title beacause i test the ellipsis
+# That it's a very very long title because i test the ellipsis
 
 AutoGetting Super Powers
 
