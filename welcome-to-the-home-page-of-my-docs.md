@@ -4,6 +4,8 @@ AutoGetting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 
+
+
 ```
 $ give me super-powers
 ```
@@ -13,6 +15,8 @@ $ give me super-powers
 
 * [ ] dldkld
 {% endhint %}
+
+{% page-ref page="welcome-to-the-home-page-of-my-docs.md" %}
 
 {% page-ref page="welcome-to-the-home-page-of-my-docs.md" %}
 

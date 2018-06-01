@@ -14,18 +14,56 @@ $ give me super-powers
 
 
 
-{% hint style="info" %}
+{% hint style="danger" %}
 ## heading 1jhjhj
+
+fg';kdl;sfgklfg
+
+gslsvlzckxv
+
+vclkvlxzv
+
+xcvlkczxvl
 {% endhint %}
 
-{% hint style="success" %}
+{% hint style="warning" %}
 ### heading 2
 
 khuhhuhh
+
+;clv;xzvc
 {% endhint %}
 
 {% hint style="info" %}
-paragrah
+xkjdksjkdjksjdkjskdkjsk
+
+* lkxld
+* fkdlfkld
+* dlfmld
+
+lksdls
+
+psdk;skd
+
+* [x] dskdlsd
+* [x] ;sdk;skdks
+* [x] * lsklks
+  * s;skdks;
+  * dlksldklsd
+  * lsldklskd
+* lskdlkds
+* lskdlskdlsdk
+* lkdlksldk
+* lskdlkslkds
+* lksldklskdlkld
+* * [ ] lskdls
+
+1. sldklskd
+2. sdklskd
+3. dkslkd
+4. sdjlsjdls
+5. djlsjds
+6. djlsjdls
 {% endhint %}
 
 {% hint style="success" %}
@@ -40,7 +78,7 @@ paragrah
 
 ![](.gitbook/assets/telechargement%20%281%29.png)
 
-{% page-ref page="welcome-to-the-home-page-of-my-docs.md" %}
+{% page-ref page="./" %}
 
 Once you're strong enough, save the world:
 
