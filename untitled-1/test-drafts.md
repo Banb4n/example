@@ -1,10 +1,3 @@
----
-description: >-
-  Description de la page de test des drafts Description de la page de test des
-  drafts Description de la page de test des drafts Description de la page de
-  test des drafts Description de la page de test.
----
-
 # test drafts
 
 ## Getting Super Powers
