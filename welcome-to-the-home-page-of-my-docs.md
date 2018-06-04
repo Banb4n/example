@@ -16,7 +16,7 @@ $ give me super-powers
 * [ ] dldkld
 {% endhint %}
 
-{% page-ref page="introduction/apiv2context/" %}
+{% page-ref page="welcome-to-the-home-page-of-my-docs.md" %}
 
 {% page-ref page="api.md" %}
 
