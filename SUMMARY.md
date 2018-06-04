@@ -5,7 +5,7 @@
 * Titre de la page
 * Content
   * [google](https://google.com)
-  * [test drafts](untitled-1/test-drafts.md)
+  * [test drafts avec un long long long titre](untitled-1/test-drafts.md)
   * [une page](untitled-1/untitled-1-1.md)
   * Encore
     * [Untitled](untitled-1/untitled-6/untitled-3.md)
