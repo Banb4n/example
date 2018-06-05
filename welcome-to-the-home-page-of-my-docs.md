@@ -10,11 +10,31 @@ Becoming a super hero is a fairly straight forward process:
 $ give me super-powers
 ```
 
-{% hint style="warning" %}
-1. kdjdkjdd
+{% tabs %}
+{% tab title="First Tab" %}
+ldskjvkdslv
 
-* [ ] dldkld
+{% hint style="info" %}
+kkhkh
+
+ldskjvkdslv
+
+k
+
+ldskjvkdslv
 {% endhint %}
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% hint style="warning" %}
+jlkjj
+{% endhint %}
+
+
 
 {% page-ref page="welcome-to-the-home-page-of-my-docs.md" %}
 

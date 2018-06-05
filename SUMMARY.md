@@ -2,7 +2,7 @@
 
 * [Initial page](README.md)
 * [That it's a very very long title because i test the ellipsis](welcome-to-the-home-page-of-my-docs.md)
-* Titre de la page
+* [Titre de la page](untitled-1-1.md)
 * Content
   * [google](https://google.com)
   * [Test Drafts](untitled-1/test-drafts.md)
