@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [Redesign table](redesign-table.md)
 * [That it's a very very long title because i test the ellipsis](welcome-to-the-home-page-of-my-docs.md)
 * [Titre de la page](untitled-1-1.md)
 * Content

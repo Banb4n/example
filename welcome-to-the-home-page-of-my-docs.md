@@ -12,16 +12,10 @@ $ give me super-powers
 
 {% tabs %}
 {% tab title="First Tab" %}
-ldskjvkdslv
+Test copy paste
 
 {% hint style="info" %}
-kkhkh
-
-ldskjvkdslv
-
-k
-
-ldskjvkdslv
+Test copy paste
 {% endhint %}
 {% endtab %}
 
