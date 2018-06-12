@@ -18,13 +18,6 @@ $ give me super-powers
  Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
-| Language | Chrome |
-| --- | --- | --- | --- | --- |
-| Javascript | true |
-| ReasonML | true |
-| Rust | false |
-|  |  |
-
 Once you're strong enough, save the world:
 
 ```
@@ -32,5 +25,9 @@ Once you're strong enough, save the world:
 echo 'You got to trust me on this, I saved the world'
 ```
 
-
+| Test | test |
+| --- | --- | --- | --- |
+| test | test |
+| test | test |
+| test | test |
 
