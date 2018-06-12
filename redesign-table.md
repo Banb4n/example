@@ -18,11 +18,12 @@ $ give me super-powers
  Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
-| Language | Chrome | Firefox |
-| --- | --- | --- | --- |
-| Javascript | true | true |
-| ReasonML | true | false |
-| Rust | false | true |
+| Language | Chrome |
+| --- | --- | --- | --- | --- |
+| Javascript | true |
+| ReasonML | true |
+| Rust | false |
+|  |  |
 
 Once you're strong enough, save the world:
 
