@@ -20,15 +20,6 @@ $ give me super-powers
 
 Once you're strong enough, save the world:
 
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-| Title | Title |
-| --- | --- |
-| Content | Content |
-
 {% tabs %}
 {% tab title="First Tab" %}
 
@@ -39,5 +30,16 @@ echo 'You got to trust me on this, I saved the world'
 {% endtab %}
 {% endtabs %}
 
+```
+// Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
 
+
+
+
+
+| Title | Title |
+| --- | --- |
+| Content | Content |
 
