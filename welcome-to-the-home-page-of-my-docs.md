@@ -51,7 +51,7 @@ echo 'You got to trust me on this, I saved the world'
 
 {% embed data="{\"url\":\"https://codepen.io/\",\"type\":\"link\",\"title\":\"CodePen\",\"description\":\"A front end web development playground.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://codepen.io/favicons/favicon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://static.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png\",\"width\":200,\"height\":200,\"aspectRatio\":1},\"caption\":\"deef\"}" %}
 
-![](.gitbook/assets/pwa.png)
+![](.gitbook/assets/pwa%20%281%29.png)
 
 ![gfgdgfg](https://images.unsplash.com/photo-1494249465471-5655b7878482?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=191559dc1cae3f8967d568dfd8a77093&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb)
 
