@@ -35,11 +35,9 @@ Once you're strong enough, save the world:
 echo 'You got to trust me on this, I saved the world'
 ```
 
-
-
-
-
-| Title | Title |
+| Title |  | Title |
 | --- | --- |
-| Content | Content |
+| Content |  | Content |
+
+
 
