@@ -30,9 +30,9 @@ Test copy paste
 
 
 
-{% page-ref page="welcome-to-the-home-page-of-my-docs.md" %}
+{% page-ref page="redesign-table.md" %}
 
-{% page-ref page="welcome-to-the-home-page-of-my-docs.md" %}
+{% page-ref page="untitled-1/" %}
 
 Once you're strong enough, save the world:
 
