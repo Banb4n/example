@@ -32,7 +32,7 @@ Test copy paste
 
 {% page-ref page="welcome-to-the-home-page-of-my-docs.md" %}
 
-{% page-ref page="./" %}
+{% page-ref page="welcome-to-the-home-page-of-my-docs.md" %}
 
 Once you're strong enough, save the world:
 
